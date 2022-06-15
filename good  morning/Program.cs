@@ -10,6 +10,7 @@ namespace good__morning
     {
         static void Main(string[] args)
         {
+            //add comment
             Console.WriteLine("Good Morning Have a Nice Day.");
             Console.ReadLine();
 
